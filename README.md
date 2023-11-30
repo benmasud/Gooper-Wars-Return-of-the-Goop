@@ -1,4 +1,3 @@
 # Gophers-Ground
-[![image](https://github.com/benmasud/Gophers-Ground/assets/69720999/478e514c-38a8-4115-b20c-80ef3fff5b8c)](https://github.com/benmasud/Gophers-Ground/assets/69720999/478e514c-38a8-4115-b20c-80ef3fff5b8c?s=200
-)https://github.com/benmasud/Gophers-Ground/assets/69720999/478e514c-38a8-4115-b20c-80ef3fff5b8c?s=200
+![image](https://github.com/benmasud/Gophers-Ground/assets/69720999/224852c4-6c55-4c3e-bacc-3d084491b52b)
 
